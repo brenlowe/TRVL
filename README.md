@@ -2,6 +2,8 @@
 
 Multi-page mock travel website created using React.
 
-- Multiple pages set up using React Router. I had the opportunity to get my hands and practice with the React Router so I could create links within my app.
-- Created a reusable Header and Footer that are featured on all pages throughout the app.
-- CSS was drafted to maintain organization and easy editing if needed to be updated. Reusable variables came in handy.
+Technologies used: React, React Router, HTML, CSS, JS, Netlify.
+This project was followed alongside Brian Design to explicate the ideas behind React and how to use reusable components in a multi page site. React Router was a focal point while building this project. I ran into some issues with npm versions but managed to problem solve and debug to get the site to function.
+CSS was drafted to maintain organization and easy editing if needed to be updated.
+
+Link to page: https://project-trvl.netlify.app/
